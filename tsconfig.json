@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "target": "ESNext",
+      "declaration": true, //生成声明文件
+      "outDir": "dist",
+      "rootDir": "src"
+    },
+    "exclude": ["node_modules", "dist"]
+  }
